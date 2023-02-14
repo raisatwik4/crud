@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "Name": "rohit sharma",
+      "Email": "rohit@knit.ac.in",
+      "Anything": "cricketer",
+      "id": 1
+    },
+    {
+      "Name": "virat",
+      "Email": "proprashant1@gmail.com",
+      "Anything": "cricket",
+      "id": 2
+    },
+    {
+      "Name": "Akash",
+      "Email": "ashu@gmail.com",
+      "Anything": "adyp",
+      "id": 3
+    },
+    {
+      "Name": "Sanjeev",
+      "Email": "sanjeevcomtax@gmail.com",
+      "Anything": "hero",
+      "id": 5
+    }
+  ]
+}
